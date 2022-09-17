@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://gleaming-croissant-4b3f4e.netlify.app/'
 languageCode = 'en-us'
 title = 'Demo for Hugo'
 theme = 'PaperMod'
